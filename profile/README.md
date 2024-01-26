@@ -1,7 +1,7 @@
-# Sistema de Gestión Bancario - Documentación para el proyecto
+# Sistema de Gestión Bancario - Documentación para el proyecto #2
 
 ¡Bienvenidos!
-A continuación presento la documentación del sistema de gestión Bancario como parte del proyecto #1. Se ha desarrollado una arquitectura basada en microservicios para proporcionar soluciones eficientes y modernas en la gestión bancaria.
+A continuación presento la documentación del sistema de gestión Bancario como parte del proyecto #2. Se ha desarrollado una arquitectura basada en microservicios para proporcionar soluciones eficientes y modernas en la gestión bancaria. En esta ocasión se estará utilizando la libreria RXJava, la cual nos ayudará para poder desarrollar de forma reactiva.
 
 ## Vista General
 
