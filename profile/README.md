@@ -16,6 +16,14 @@ La imagen anterior ofrece una visión general de la arquitectura, donde cada mic
 ![Sonarqube](https://raw.githubusercontent.com/ProyectoSemana2-BC49/.github/main/res/sonarqube.PNG)
 
 ### HashiCorp Vault
+![Sonarqube](https://raw.githubusercontent.com/ProyectoSemana2-BC49/.github/main/res/vault.PNG)
+
+### JaCoCo
+![Sonarqube](https://raw.githubusercontent.com/ProyectoSemana2-BC49/.github/main/res/jacoco.PNG)
+
+### Editor Swagger
+![Sonarqube](https://raw.githubusercontent.com/ProyectoSemana2-BC49/.github/main/res/swagger.PNG)
+
 ## Repositorios
 
 ### [ms-creditos](https://github.com/ProyectoSemana2-BC49/ms-creditos)
