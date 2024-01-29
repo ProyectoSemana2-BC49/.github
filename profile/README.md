@@ -10,6 +10,12 @@ Del mismo modo se amplía las funcionalidades requeridas.
 
 La imagen anterior ofrece una visión general de la arquitectura, donde cada microservicio cumple un papel crucial en la entrega de funcionalidades específicas. A continuación, proporciono detalles sobre cada repositorio que forma parte de este proyecto.
 
+## Herramientas utilizadas
+
+### Sonarqube
+![Sonarqube](https://raw.githubusercontent.com/ProyectoSemana2-BC49/.github/main/res/sonarqube.PNG)
+
+### HashiCorp Vault
 ## Repositorios
 
 ### [ms-creditos](https://github.com/ProyectoSemana2-BC49/ms-creditos)
